@@ -45,6 +45,7 @@
 [![Linkedin: tomislavtkalcevic](https://img.shields.io/badge/-tomislavtkalcevic-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomislavtkalcevic)](https://www.linkedin.com/in/tomislavtkalcevic)
 [![Medium Badge](https://img.shields.io/badge/@ttkalcevic-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@ttkalcevic)](https://medium.com/@ttkalcevic)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K71KQZQ5)
 ___
 
 [![F1 news reporter](https://img.shields.io/badge/F1_news_reporter-white?style=for-the-badge&logo=f1&logoColor=%23E10600&labelColor=black&color=black)](https://f1.pulsmedia.hr/author/tomislav2911/)
