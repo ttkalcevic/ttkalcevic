@@ -46,6 +46,10 @@
 [![Medium Badge](https://img.shields.io/badge/@ttkalcevic-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@ttkalcevic)](https://medium.com/@ttkalcevic)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K71KQZQ5)
+
+
+### Medium articles
+[Mastering Android Build Variants: Developer’s Guide to buildTypes, productFlavors and buildVariants](https://medium.com/@ttkalcevic/mastering-android-build-variants-developers-guide-to-buildtypes-productflavors-and-buildvariants-499421a663a2)
 ___
 
 [![F1 news reporter](https://img.shields.io/badge/F1_news_reporter-white?style=for-the-badge&logo=f1&logoColor=%23E10600&labelColor=black&color=black)](https://f1.pulsmedia.hr/author/tomislav2911/)
