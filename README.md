@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Android software developer</h3>
 
 
-- 🔭 I’m currently working for [Four of Them LCC, Croatia](https://4ofthem.eu/)
+- 🔭 I’m currently working for [Four of Them LLC, Croatia](https://4ofthem.eu/)
 
 - 💬 Ask me about **Android**
 
